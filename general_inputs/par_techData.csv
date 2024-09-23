@@ -1,0 +1,7 @@
+technology_1,parameter,value
+wind,costExpConv,1120
+hydro,costExpStIn,600
+hydro,costExpStSize,10.12
+hydro,stOutToStInCapaFix,1
+hydro,effStIn,0.948683298
+hydro,effStOut,0.948683298

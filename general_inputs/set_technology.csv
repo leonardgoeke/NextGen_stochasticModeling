@@ -1,0 +1,3 @@
+technology_1,technology_2,mode,carrier_conversion_in,carrier_conversion_out,carrier_stored_in,carrier_stored_out,technology_type,technology_decomm,technology_stBalance,timestep_cyclic
+wind,,,,electricity,,,mature,none,,
+hydro,,,,,electricity,electricity,mature,none,ineq,1

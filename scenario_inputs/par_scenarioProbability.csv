@@ -1,0 +1,4 @@
+scenario,parameter,value
+base,scrProb,0.9
+highDemLowWind,scrProb,0.05
+highDemLowHydro,scrProb,0.05
