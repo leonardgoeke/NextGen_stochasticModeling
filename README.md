@@ -3,6 +3,6 @@ This repository provides the code and data for the second training session 2C "M
 # Installation #
 
 This repository enables workshop participants to follow the workshop step-by-step. The following steps are necessary to run the provided code and should be carried out **before the workshop**:
-1. Install [VSCode](https://code.visualstudio.com/) and [Julia 1.10.2](https://julialang.org/downloads/oldreleases/)
+1. Install [VSCode](https://code.visualstudio.com/) and [Julia 1.10.2](https://julialang.org/downloads/oldreleases/). If you experience problems, like unexpected errors or long installation times in step 3, we recommend using the latest Julia version instead.
 2. Setup Julia in VSCode installing the [Julia extension](https://code.visualstudio.com/docs/languages/julia)
 3. Run the first code block in the *script.jl* or *script.ipynb* installing all necessary packages.
